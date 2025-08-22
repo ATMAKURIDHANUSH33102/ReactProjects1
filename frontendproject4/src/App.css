@@ -1,5 +1,5 @@
 header{
-  background-color: rgb(23, 24, 76);
+  background-color: rgb(66, 68, 146);
   width: 100%;
   height: 30px;
   color: aliceblue;
@@ -10,10 +10,10 @@ header{
 section{
   height: calc(100% - 50px);
   overflow: auto;
-  background: rgb(131, 240, 131);
+  background: rgb(111, 195, 214);
 }
 footer{
-    background: violet;
+    background: rgb(182, 111, 182);
     width: 100%;
     height: 20px;
     text-align: center
